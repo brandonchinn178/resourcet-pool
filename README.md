@@ -1,3 +1,5 @@
+DEPRECATED: `unliftio-pool` should be sufficient for most use-cases
+
 # `resourcet-pool`
 
 ![Hackage](https://img.shields.io/hackage/v/resourcet-pool)
